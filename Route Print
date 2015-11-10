@@ -1,0 +1,3 @@
+route print > d:\route_print.txt
+
+notepad.exe d:\route_print.txt
